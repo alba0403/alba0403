@@ -13,7 +13,7 @@ development with Android Studio.
   - Mobile development with Android Studio
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help.
-- Outside tech, 📖 I love to reading, 🏖️ going to the beach, 🐾 spending time 
+- Outside tech, 📖 I love reading, 🏖️ going to the beach, 🐾 spending time 
 with my pets, and 🎵 listen to music.
 - 📫 Reach out to me at: <a href="albamelendresnavarro@gmail.com">albamelendresnavarro@gmail.com</a>
 
